@@ -1,0 +1,32 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #0ef10e;
+    margin: 15px;
+    text-align: center;
+    background-image:url("../img/R.png");
+    background-position: center;
+    background-repeat: initial;
+    background-size: 15px;
+
+}
+h1
+{
+    color: #f509a6;
+    background-color: #cc0404;
+}
+p
+{
+    color: #f5dd07;
+    background-color: #0ebcf1;
+}
+.rodape
+{
+    color: #0a0101;
+    background-color: #fa36a2;
+}
+#texto
+{
+    color: #f708ff;
+    background-color: #024602;
+}
