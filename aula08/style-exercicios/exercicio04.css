@@ -1,0 +1,12 @@
+ul
+{
+    padding: 0;
+    margin: 20px;
+
+}
+
+li
+{
+    padding: 10px;
+    border: solid 1px #0e0000;
+}
